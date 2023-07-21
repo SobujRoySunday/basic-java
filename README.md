@@ -4,24 +4,24 @@ Welcome to the Java Example Codes Repository! This repository contains a collect
 
 ## Table of Contents
 
-1. [Abstract Keyword](#abstract-keyword)
-2. [Arrays](#arrays)
-3. [Casting](#casting)
-4. [ClassLoader](#classloader)
-5. [Encapsulation](#encapsulation)
-6. [Exceptions](#exceptions)
-7. [Final Keyword](#final-keyword)
-8. [If-Else](#if-else)
-9. [Inheritance](#inheritance)
-10. [Inner Class](#inner-class)
-11. [Input](#input)
-12. [Interfaces](#interfaces)
-13. [Literals](#literals)
-14. [Loops](#loops)
-15. [Operators](#operators)
-16. [Polymorphism](#polymorphism)
-17. [Static Keyword](#static-keyword)
-18. [Switch-Case](#switch-case)
+1. [Abstract Keyword](https://github.com/SobujRoySunday/basic-java/tree/main/src/abstractkeyword)
+2. [Arrays](https://github.com/SobujRoySunday/basic-java/tree/main/src/arrays)
+3. [Casting](https://github.com/SobujRoySunday/basic-java/tree/main/src/casting)
+4. [ClassLoader](https://github.com/SobujRoySunday/basic-java/tree/main/src/classloader)
+5. [Encapsulation](https://github.com/SobujRoySunday/basic-java/tree/main/src/encapsulation)
+6. [Exceptions](https://github.com/SobujRoySunday/basic-java/tree/main/src/exceptions)
+7. [Final Keyword](https://github.com/SobujRoySunday/basic-java/tree/main/src/finalkeyword)
+8. [If-Else](https://github.com/SobujRoySunday/basic-java/tree/main/src/ifelse)
+9. [Inheritance](https://github.com/SobujRoySunday/basic-java/tree/main/src/inheritance)
+10. [Inner Class](https://github.com/SobujRoySunday/basic-java/tree/main/src/innerclass)
+11. [Input](https://github.com/SobujRoySunday/basic-java/tree/main/src/input)
+12. [Interfaces](https://github.com/SobujRoySunday/basic-java/tree/main/src/interfaces)
+13. [Literals](https://github.com/SobujRoySunday/basic-java/tree/main/src/literals)
+14. [Loops](https://github.com/SobujRoySunday/basic-java/tree/main/src/loops)
+15. [Operators](https://github.com/SobujRoySunday/basic-java/tree/main/src/operators)
+16. [Polymorphism](https://github.com/SobujRoySunday/basic-java/tree/main/src/polymorphism)
+17. [Static Keyword](https://github.com/SobujRoySunday/basic-java/tree/main/src/statickeyword)
+18. [Switch-Case](https://github.com/SobujRoySunday/basic-java/tree/main/src/switchcase)
 
 ## Abstract Keyword
 
@@ -91,7 +91,7 @@ Explore the concept of polymorphism in Java through examples. It covers method o
 
 This category contains examples showcasing the usage of the `static` keyword in Java. It
 
- covers static variables, static methods, and static initialization blocks.
+covers static variables, static methods, and static initialization blocks.
 
 ## Switch-Case
 
